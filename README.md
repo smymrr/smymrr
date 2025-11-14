@@ -15,14 +15,14 @@
 
 ### Goals
 -  Deepen my skills in **Frontend & Backend Development**
--  Start **freelancing by thw end of 2026**
+-  Start **freelancing by the end of 2026**
 -  Write **clean code, scalability, and design principles**
 
 ###  Let’s Connect
 - Email: mochamadsergian@gmail.com
 - LinkedIn: [Sergian Mochamad](https://www.linkedin.com/in/sergian-mochamad/)
 - GitHub: [smymrr](#)
-- Discord: [yuura.](#)
+- Discord: yuura.
 
 > Say hi, please
 
