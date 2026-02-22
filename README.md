@@ -6,10 +6,10 @@
 
 ### About Me
 - A high school student passionate about **Web Development** and growing curiosity in **Game Development**
-- Fluent in **Lua**, currently learning **Python**, **JavaScript**, **C#**, and frameworks such as **React**, and **Node.js**.  
+- Fluent in **Lua**, currently learning **PHP**, **JavaScript**, **C#** and frameworks such as **Laravel**, and **Node.js**.  
 
 ### Tech Stack
-**Languages:** Lua · Python · JavaScript · C# · HTML/CSS  
+**Languages:** Lua · JavaScript · C# · HTML/CSS · PHP
 **Tools & Frameworks:** Git · VS Code · Zed · Unity  
 **Interests:**  Web Dev · Writing · Games
 
@@ -31,4 +31,3 @@
 ### Fun fact
 - I am addicted to caffeine
 - Chronically bored
-- I struggle with social interactions
