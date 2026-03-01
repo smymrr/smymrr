@@ -31,3 +31,4 @@
 ### Fun fact
 - I am addicted to caffeine
 - Chronically bored
+- I am not perfect, I am learning as I code.
