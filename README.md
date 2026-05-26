@@ -6,10 +6,10 @@
 
 ### About Me
 - A high school student passionate about **Web Development** and growing curiosity in **Game Development**
-- Fluent in **Lua**, currently learning **PHP**, **JavaScript**, **C#** and frameworks such as **Laravel**, and **Node.js**.  
+- Fluent in **Lua**, currently expanding my skills on OOP languages, and frameworks such as **Laravel**, and **Node.js**.  
 
 ### Tech Stack
-**Languages:** Lua · JavaScript · C# · HTML/CSS · PHP  
+**Languages:** Lua · JavaScript · C# · Java · PHP · Python
 **Tools & Frameworks:** Git · VS Code · Zed · Unity  
 **Interests:**  Web Dev · Writing · Games
 
