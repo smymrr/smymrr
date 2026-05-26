@@ -9,7 +9,7 @@
 - Fluent in **Lua**, currently expanding my skills on OOP languages, and frameworks such as **Laravel**, and **Node.js**.  
 
 ### Tech Stack
-**Languages:** Lua · JavaScript · C# · Java · PHP · Python
+**Languages:** Lua · JavaScript · C# · Java · PHP · Python  
 **Tools & Frameworks:** Git · VS Code · Zed · Unity  
 **Interests:**  Web Dev · Writing · Games
 
