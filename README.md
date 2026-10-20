@@ -10,7 +10,7 @@
 
 ### Tech Stack
 **Languages:** Lua · JavaScript · C# · Java · PHP · Python  
-**Tools & Frameworks:** Git · VS Code · Zed · Unity  
+**Tools & Frameworks:** Git · Laravel · React · VS Code · Zed · Godot  
 **Interests:**  Web Dev · Writing · Games
 
 ### Goals
